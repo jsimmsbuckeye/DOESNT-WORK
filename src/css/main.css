@@ -32,7 +32,8 @@
 .row{
   padding-bottom: 50px;
 }
-.jessepic{
+
+.responsivepic{
   width:100%;
   padding: 0 !important;
 }
@@ -57,11 +58,11 @@
 .nopadding{
   padding: 0px;
 }
-#JesseText.col-md-12{
-  background: green !important;
-  float:right;
 
+.evenpadding{
+  padding:15px !important;
 }
+
 
 #titlediv{
   float:right;

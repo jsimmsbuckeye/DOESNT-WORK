@@ -1,3 +1,10 @@
+## TEAM MEMBERS: 
+Jesse Simms, Sophia Russell , Gardie Lueders, Ruby Nugent
+
+## Project 2(b): 
+This is our project using the HTML5 Template and Bootstrap. This project is done for LIS575 in the Fall of 2018.
+
+
 # [HTML5 Boilerplate](https://html5boilerplate.com/)
 
 [![Build Status](https://travis-ci.org/h5bp/html5-boilerplate.svg)](https://travis-ci.org/h5bp/html5-boilerplate)
@@ -40,7 +47,7 @@ Choose one of the following options:
   * A custom build of [`Modernizr`](https://modernizr.com/) for feature
     detection
   * [`Apache Server Configs`](https://github.com/h5bp/server-configs-apache)
-    that, among other, improve the web site's performance and security
+    that, among other, improve the web site's performance and security##
 * Placeholder CSS Media Queries.
 * Useful CSS helper classes.
 * Default print styles, performance optimized.

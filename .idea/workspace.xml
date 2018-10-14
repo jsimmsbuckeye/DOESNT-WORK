@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0be9c5cb-caa1-4091-be69-dfe4d49b19cc" name="Default Changelist" comment="Hosting img locally">
+    <list default="true" id="0be9c5cb-caa1-4091-be69-dfe4d49b19cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,19 +61,22 @@
     <session id="-282799577">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="229" />
-          <entry key="txt" value="27" />
+          <entry key="css" value="44" />
+          <entry key="html" value="369" />
+          <entry key="txt" value="210" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="229" />
-          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="CSS" value="44" />
+          <entry key="HTML" value="369" />
+          <entry key="PLAIN_TEXT" value="210" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
           <entry key="git.branch.checkout.local" value="3" />
+          <entry key="git.branch.delete.local" value="1" />
           <entry key="git.branch.merge" value="2" />
         </counts>
       </usages-collector>
@@ -95,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+            <state relative-caret-position="155">
+              <caret line="113" column="6" lean-forward="true" selection-start-line="113" selection-start-column="6" selection-end-line="113" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -104,8 +108,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1768">
-              <caret line="104" selection-start-line="104" selection-end-line="104" />
+            <state relative-caret-position="-99">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
             </state>
           </provider>
         </entry>
@@ -237,11 +241,25 @@
       <option name="project" value="LOCAL" />
       <updated>1539541923750</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Deleting all branches so each member can create their own branch">
+      <created>1539542220239</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539542220239</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Formatting Changes in HTML (added clearer divisions between sections. Also added a class for even spacing">
+      <created>1539543081942</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539543081942</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1827000" />
+    <option name="totallyTimeSpent" value="2902000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -286,20 +304,22 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Testing Commit with small change" />
     <MESSAGE value="Hosting img locally" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hosting img locally" />
+    <MESSAGE value="Deleting all branches so each member can create their own branch" />
+    <MESSAGE value="Formatting Changes in HTML (added clearer divisions between sections. Also added a class for even spacing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Formatting Changes in HTML (added clearer divisions between sections. Also added a class for even spacing" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/index.html">
+    <entry file="file://$PROJECT_DIR$/src/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+        <state relative-caret-position="-99">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/main.css">
+    <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1768">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        <state relative-caret-position="155">
+          <caret line="113" column="6" lean-forward="true" selection-start-line="113" selection-start-column="6" selection-end-line="113" selection-end-column="6" />
         </state>
       </provider>
     </entry>

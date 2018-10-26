@@ -36,9 +36,13 @@
   font-size: calc(1em + 1vw);
 }
 
-.row{
+.row {
   padding-bottom: 50px;
 }
+  .sophiabackground {
+    background:lightseagreen; font-family:Comic Sans MS;
+  }
+
 
 .responsivepic{
   width:100%;

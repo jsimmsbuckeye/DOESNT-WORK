@@ -17,19 +17,26 @@
 #header{
   color: #ffffff;
   Background: #003366;
+  padding:1% 8%;
 }
 
 #footer{
   color: #ffffff;
   background: #222222;
-  padding:1%;
+  padding:2% 8%;
 }
+
 #topbar{
   padding: 1% 8%;
 }
 
 .logo{
   width: 10%;
+}
+
+.footerlogo{
+  width:10%;
+  filter: grayscale(75%);
 }
 
 #title{

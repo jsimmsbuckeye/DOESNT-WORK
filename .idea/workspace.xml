@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0be9c5cb-caa1-4091-be69-dfe4d49b19cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -123,14 +122,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="15" />
-          <entry key="txt" value="32" />
+          <entry key="html" value="33" />
+          <entry key="txt" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="15" />
-          <entry key="PLAIN_TEXT" value="32" />
+          <entry key="HTML" value="33" />
+          <entry key="PLAIN_TEXT" value="67" />
         </counts>
       </usages-collector>
     </session>
@@ -140,8 +139,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="136" column="77" selection-start-line="136" selection-start-column="77" selection-end-line="146" selection-end-column="30" />
+            <state relative-caret-position="145">
+              <caret line="145" column="29" lean-forward="true" selection-start-line="145" selection-start-column="29" selection-end-line="145" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -214,6 +213,12 @@
               <item name="PROJECT-2-TEAM1FIX" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PROJECT-2-TEAM1FIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJECT-2-TEAM1FIX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -285,7 +290,7 @@
       <workItem from="1541477262527" duration="1144000" />
       <workItem from="1541478995658" duration="215000" />
       <workItem from="1541526073575" duration="169000" />
-      <workItem from="1541550154708" duration="850000" />
+      <workItem from="1541550154708" duration="1757000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1539531975766</created>
@@ -350,11 +355,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539570097017</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="committing ruby's local image">
+      <created>1541551333382</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1541551333382</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9697000" />
+    <option name="totallyTimeSpent" value="10604000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -366,7 +378,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24925596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -404,13 +417,14 @@
     <MESSAGE value="workspace update" />
     <MESSAGE value="Added notes to the CSS file" />
     <MESSAGE value="initial commit for ruby's branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit for ruby's branch" />
+    <MESSAGE value="committing ruby's local image" />
+    <option name="LAST_COMMIT_MESSAGE" value="committing ruby's local image" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="136" column="77" selection-start-line="136" selection-start-column="77" selection-end-line="146" selection-end-column="30" />
+        <state relative-caret-position="145">
+          <caret line="145" column="29" lean-forward="true" selection-start-line="145" selection-start-column="29" selection-end-line="145" selection-end-column="29" />
         </state>
       </provider>
     </entry>
